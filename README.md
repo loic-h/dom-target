@@ -1,10 +1,10 @@
-#dom-target
+# dom-target
 
 From a node or a selector, retrieve the closest parent, or the node itself.
 
-##Usage
+## Usage
 
-```
+```javascript
 import target from 'dom-target';
 
 const button = document.querySelecor('#my-button');
