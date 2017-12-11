@@ -1,6 +1,6 @@
 {
   "name": "dom-target",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "From a node or a selector, retrieve the closest parent, or the node itself",
   "main": "index.js",
   "author": "Loïc Hamet",
