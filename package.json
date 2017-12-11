@@ -1,11 +1,12 @@
 {
   "name": "dom-target",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "From a node or a selector, retrieve the closest parent, or the node itself",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Loïc Hamet",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loic-h/dom-target"
   },
-  "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
