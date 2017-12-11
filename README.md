@@ -2,6 +2,13 @@
 
 From a node or a selector, retrieve the closest parent, or the node itself.
 
+## Installation
+
+```
+npm install dom-target --save
+```
+
+
 ## Usage
 
 ```javascript
