@@ -1,1 +1,3 @@
-import './lib/target.js';
+'use strict';
+
+module.export = require('./lib');
