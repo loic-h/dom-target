@@ -1,3 +1,5 @@
+With the wide support of the native [closest](https://developer.mozilla.org/en-US/docs/Web/API/Element/closest) method for node elements, this repository is now obsolete.
+
 # dom-target
 
 From a node or a selector, retrieve the closest parent, or the node itself.
